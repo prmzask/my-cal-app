@@ -7,7 +7,7 @@ const foodItems = [
   { id: 3, name: "コーヒー", price: 598, image: "/images/coffee.jpg" },
   { id: 4, name: "ちくわ", price: 118, image: "/images/chikuwa.jpg" },
   { id: 5, name: "ソーセージ", price: 408, image: "/images/sausage.jpg" },
-  { id: 6, name: "BB", price: 228, image: "/images/big.jpg" },
+  { id: 6, name: "ボロネーゼ", price: 228, image: "/images/big.jpg" },
   { id: 7, name: "プリン", price: 98, image: "/images/purin.jpg" },
   { id: 8, name: "みかんゼリー", price: 129, image: "/images/jerry.jpg" },
   { id: 9, name: "あずきバー", price: 288, image: "/images/azuki.jpg" },
