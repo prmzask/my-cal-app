@@ -7,7 +7,7 @@ const foodItems = [
   { id: 3, name: "コーヒー", price: 598, image: "/images/coffee.jpg" },
   { id: 4, name: "ちくわ", price: 118, image: "/images/chikuwa.jpg" },
   { id: 5, name: "ソーセージ", price: 408, image: "/images/sausage.jpg" },
-  { id: 6, name: "BIG ボロネーゼ", price: 228, image: "/images/big.jpg" },
+  { id: 6, name: "BB", price: 228, image: "/images/big.jpg" },
   { id: 7, name: "プリン", price: 98, image: "/images/purin.jpg" },
   { id: 8, name: "みかんゼリー", price: 129, image: "/images/jerry.jpg" },
   { id: 9, name: "あずきバー", price: 288, image: "/images/azuki.jpg" },
@@ -17,7 +17,7 @@ const foodItems = [
 const seasoningItems = [
   { id: 10, name: "みそ", price: 418, image: "/images/miso.jpg" },
   { id: 11, name: "みりん", price: 318, image: "/images/mirin.jpg" },
-  { id: 12, name: "うすくち醤油", price: 338, image: "/images/shoyu.jpg" },
+  { id: 12, name: "うす口醤油", price: 338, image: "/images/shoyu.jpg" },
   { id: 13, name: "かき醤油", price: 428, image: "/images/kakishoyu.jpg" },
   { id: 14, name: "旭ポン酢", price: 698, image: "/images/ponzu.jpg" },
   { id: 15, name: "パルメザン", price: 598, image: "/images/cheese.jpg" },
