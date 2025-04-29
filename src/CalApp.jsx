@@ -10,7 +10,7 @@ const foodItems = [
   { id: 6, name: "プリン", price: 98, image: "/images/purin.jpg" },
   { id: 7, name: "みかんゼリー", price: 129, image: "/images/jerry.jpg" },
   { id: 8, name: "あずきバー", price: 288, image: "/images/azuki.jpg" },
-  { id: 9, name: "ボロネーゼ", price: 228, image: "/images/boro.jpg" },
+  { id: 9, name: "ボロネーゼ", price: 218, image: "/images/boro.jpg" },
   { id: 10, name: "チョコ", price: 338, image: "/images/choco.jpg" },
   { id: 11, name: "牛乳", price: 238, image: "/images/gyunyu.jpg" },
  
